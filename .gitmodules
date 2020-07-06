@@ -1,0 +1,3 @@
+[submodule "HeatTransfer"]
+	path = HeatTransfer
+	url = https://github.com/cjohns94/HeatTransfer.git
