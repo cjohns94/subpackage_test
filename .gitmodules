@@ -1,3 +1,6 @@
 [submodule "HeatTransfer"]
 	path = HeatTransfer
 	url = https://github.com/cjohns94/HeatTransfer.git
+[submodule "Optimization_ME575"]
+	path = Optimization_ME575
+	url = https://github.com/cjohns94/Optimization_ME575.git
