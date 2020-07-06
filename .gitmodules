@@ -4,3 +4,9 @@
 [submodule "Optimization_ME575"]
 	path = Optimization_ME575
 	url = https://github.com/cjohns94/Optimization_ME575.git
+[submodule "dependencies/Optimization_ME575"]
+	path = dependencies/Optimization_ME575
+	url = https://github.com/cjohns94/Optimization_ME575.git
+[submodule "dependencies/RoboticsProject"]
+	path = dependencies/RoboticsProject
+	url = https://github.com/cjohns94/RoboticsProject.git
